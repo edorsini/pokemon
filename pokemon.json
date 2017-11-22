@@ -1,0 +1,337 @@
+[
+    {
+        "pokeId": 1,
+        "title": "Bulbasaur",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/2/21/001Bulbasaur.png/revision/latest/scale-to-width-down/200?cb=20140328190757",
+        "link": "https://pokemondb.net//pokedex/bulbasaur",
+        "pokeType": [
+            "Grass",
+            "Poison"
+        ],
+        "stages": [
+            "Bulbasaur",
+            "Ivysaur",
+            "Venusaur"
+        ],
+        "evolution": {
+            "from": false,
+            "to": "Ivysaur"
+        }
+    },
+    {
+        "pokeId": 2,
+        "title": "Ivysaur",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/7/73/002Ivysaur.png/revision/latest/scale-to-width-down/200?cb=20140328190847",
+        "link": "https://pokemondb.net//pokedex/ivysaur",
+        "pokeType": [
+            "Grass",
+            "Poison"
+        ],
+        "stages": [
+            "Bulbasaur",
+            "Ivysaur",
+            "Venusaur"
+        ],
+        "evolution": {
+            "from": "Bulbasaur",
+            "to": "Venusaur"
+        }
+    },
+    {
+        "pokeId": 3,
+        "title": "Venusaur",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/a/ae/003Venusaur.png/revision/latest/scale-to-width-down/200?cb=20140328190902",
+        "link": "https://pokemondb.net//pokedex/venusaur",
+        "pokeType": [
+            "Grass",
+            "Poison"
+        ],
+        "stages": [
+            "Bulbasaur",
+            "Ivysaur",
+            "Venusaur"
+        ],
+        "evolution": {
+            "from": "Ivysaur",
+            "to": false
+        }
+    },
+    {
+        "pokeId": 4,
+        "title": "Charmander",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/7/73/004Charmander.png/revision/latest/scale-to-width-down/200?cb=20140724195345",
+        "link": "https://pokemondb.net//pokedex/charmander",
+        "pokeType": [
+            "Fire"
+        ],
+        "stages": [
+            "Charmander",
+            "Charmeleon",
+            "Charizard"
+        ],
+        "evolution": {
+            "from": false,
+            "to": "Charmeleon"
+        }
+    },
+    {
+        "pokeId": 5,
+        "title": "Charmeleon",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/4/4a/005Charmeleon.png/revision/latest/scale-to-width-down/200?cb=20140328191309",
+        "link": "https://pokemondb.net//pokedex/charmeleon",
+        "pokeType": [
+            "Fire"
+        ],
+        "stages": [
+            "Charmander",
+            "Charmeleon",
+            "Charizard"
+        ],
+        "evolution": {
+            "from": "Charmander",
+            "to": "Charizard"
+        }
+    },
+    {
+        "pokeId": 6,
+        "title": "Charizard",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/7/7e/006Charizard.png/revision/latest/scale-to-width-down/200?cb=20140328191325",
+        "link": "https://pokemondb.net//pokedex/charizard",
+        "pokeType": [
+            "Fire",
+            "Flying"
+        ],
+        "stages": [
+            "Charmander",
+            "Charmeleon",
+            "Charizard"
+        ],
+        "evolution": {
+            "from": "Charmeleon",
+            "to": false
+        }
+    },
+    {
+        "pokeId": 7,
+        "title": "Squirtle",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/3/39/007Squirtle.png/revision/latest/scale-to-width-down/200?cb=20140328191525",
+        "link": "https://pokemondb.net//pokedex/squirtle",
+        "pokeType": [
+            "Water"
+        ],
+        "stages": [
+            "Squirtle",
+            "Wartortle",
+            "Blastoise"
+        ],
+        "evolution": {
+            "from": false,
+            "to": "Wartortle"
+        }
+    },
+    {
+        "pokeId": 8,
+        "title": "Wartortle",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/0/0c/008Wartortle.png/revision/latest/scale-to-width-down/200?cb=20140328191553",
+        "link": "https://pokemondb.net//pokedex/wartortle",
+        "pokeType": [
+            "Water"
+        ],
+        "stages": [
+            "Squirtle",
+            "Wartortle",
+            "Blastoise"
+        ],
+        "evolution": {
+            "from": "Squirtle",
+            "to": "Blastoise"
+        }
+    },
+    {
+        "pokeId": 9,
+        "title": "Blastoise",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/0/02/009Blastoise.png/revision/latest/scale-to-width-down/200?cb=20140328191642",
+        "link": "https://pokemondb.net//pokedex/blastoise",
+        "pokeType": [
+            "Water"
+        ],
+        "stages": [
+            "Squirtle",
+            "Wartortle",
+            "Blastoise"
+        ],
+        "evolution": {
+            "from": "Wartortle",
+            "to": false
+        }
+    },
+    {
+        "pokeId": 10,
+        "title": "Caterpie",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/5d/010Caterpie.png/revision/latest/scale-to-width-down/200?cb=20140328191737",
+        "link": "https://pokemondb.net//pokedex/caterpie",
+        "pokeType": [
+            "Bug"
+        ],
+        "stages": [
+            "Caterpie",
+            "Metapod",
+            "Butterfree"
+        ],
+        "evolution": {
+            "from": false,
+            "to": "Metapod"
+        }
+    },
+    {
+        "pokeId": 11,
+        "title": "Metapod",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/c/cd/011Metapod.png/revision/latest/scale-to-width-down/200?cb=20140328191749",
+        "link": "https://pokemondb.net//pokedex/metapod",
+        "pokeType": [
+            "Bug"
+        ],
+        "stages": [
+            "Caterpie",
+            "Metapod",
+            "Butterfree"
+        ],
+        "evolution": {
+            "from": "Caterpie",
+            "to": "Butterfree"
+        }
+    },
+    {
+        "pokeId": 12,
+        "title": "Butterfree",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/d/d1/012Butterfree.png/revision/latest/scale-to-width-down/200?cb=20140328191825",
+        "link": "https://pokemondb.net//pokedex/butterfree",
+        "pokeType": [
+            "Bug",
+            "Flying"
+        ],
+        "stages": [
+            "Caterpie",
+            "Metapod",
+            "Butterfree"
+        ],
+        "evolution": {
+            "from": "Metapod",
+            "to": false
+        }
+    },
+    {
+        "pokeId": 13,
+        "title": "Weedle",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/d/df/013Weedle.png/revision/latest/scale-to-width-down/200?cb=20140328191838",
+        "link": "https://pokemondb.net//pokedex/weedle",
+        "pokeType": [
+            "Bug",
+            "Poison"
+        ],
+        "stages": [
+            "Weedle",
+            "Kakuna",
+            "Beedrill"
+        ],
+        "evolution": {
+            "from": false,
+            "to": "Kakuna"
+        }
+    },
+    {
+        "pokeId": 14,
+        "title": "Kakuna",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/f/f0/014Kakuna.png/revision/latest/scale-to-width-down/200?cb=20140328191918",
+        "link": "https://pokemondb.net//pokedex/kakuna",
+        "pokeType": [
+            "Bug",
+            "Poison"
+        ],
+        "stages": [
+            "Weedle",
+            "Kakuna",
+            "Beedrill"
+        ],
+        "evolution": {
+            "from": "Weedle",
+            "to": "Beedrill"
+        }
+    },
+    {
+        "pokeId": 15,
+        "title": "Beedrill",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/6/61/015Beedrill.png/revision/latest/scale-to-width-down/200?cb=20140328191940",
+        "link": "https://pokemondb.net//pokedex/beedrill",
+        "pokeType": [
+            "Bug",
+            "Poison"
+        ],
+        "stages": [
+            "Weedle",
+            "Kakuna",
+            "Beedrill"
+        ],
+        "evolution": {
+            "from": "Kakuna",
+            "to": false
+        }
+    },
+    {
+        "pokeId": 16,
+        "title": "Pidgey",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/55/016Pidgey.png/revision/latest/scale-to-width-down/200?cb=20140328192030",
+        "link": "https://pokemondb.net//pokedex/pidgey",
+        "pokeType": [
+            "Normal",
+            "Flying"
+        ],
+        "stages": [
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot"
+        ],
+        "evolution": {
+            "from": false,
+            "to": "Pidgeotto"
+        }
+    },
+    {
+        "pokeId": 17,
+        "title": "Pidgeotto",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/7/7a/017Pidgeotto.png/revision/latest/scale-to-width-down/200?cb=20140328192046",
+        "link": "https://pokemondb.net//pokedex/pidgeotto",
+        "pokeType": [
+            "Normal",
+            "Flying"
+        ],
+        "stages": [
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot"
+        ],
+        "evolution": {
+            "from": "Pidgey",
+            "to": "Pidgeot"
+        }
+    },
+    {
+        "pokeId": 18,
+        "title": "Pidgeot",
+        "image": "https://vignette.wikia.nocookie.net/pokemon/images/5/57/018Pidgeot.png/revision/latest/scale-to-width-down/200?cb=20140328192120",
+        "link": "https://pokemondb.net//pokedex/pidgeot",
+        "pokeType": [
+            "Normal",
+            "Flying"
+        ],
+        "stages": [
+            "Pidgey",
+            "Pidgeotto",
+            "Pidgeot"
+        ],
+        "evolution": {
+            "from": "Pidgeotto",
+            "to": false
+        }
+    }
+]
