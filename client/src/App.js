@@ -26,16 +26,7 @@ import Pokedex from "./pages/Pokedex";
 const App = () =>
   <Router>
     <div>
-      <div className="testing-div">
-        <h1>This is the header.</h1>
-      </div>
-      <div className="testing-div">
-        <h1>This is the content.</h1>
-      </div>
-      <div className="testing-div">
-        <h1>This is the footer.</h1>
-      </div>
-      <Nav />
+
       
       {
         // This is where React Router will match the path.  If a path is
