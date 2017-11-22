@@ -36,6 +36,7 @@ const App = () =>
       }
       <Switch>
         <Route exact path="/" component={Pokedex} />
+        <Route exact path="/home" component={Pokedex} />
         <Route exact path="/pokedex" component={Pokedex} />
         <Route exact path="/books" component={Books} />
         <Route exact path="/games" component={Books} />
