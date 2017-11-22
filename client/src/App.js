@@ -21,6 +21,7 @@ import Courses from "./pages/Courses";
 import Detail from "./pages/Detail";
 import NoMatch from "./pages/NoMatch";
 import Nav from "./components/Nav";
+import Pokedex from "./pages/Pokedex";
 
 const App = () =>
   <Router>
@@ -43,7 +44,8 @@ const App = () =>
         // be rendered.
       }
       <Switch>
-        <Route exact path="/" component={Books} />
+        <Route exact path="/" component={Pokedex} />
+        <Route exact path="/pokedex" component={Pokedex} />
         <Route exact path="/books" component={Books} />
         <Route exact path="/games" component={Books} />
         <Route exact path="/courses" component={Courses} />
